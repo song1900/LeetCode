@@ -35,10 +35,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/song1900/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0680-valid-palindrome-ii](https://github.com/song1900/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/song1900/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/song1900/LeetCode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/song1900/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/song1900/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/song1900/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
