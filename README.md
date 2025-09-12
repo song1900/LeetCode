@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/song1900/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/song1900/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/song1900/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/song1900/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/song1900/LeetCode/tree/master/0383-ransom-note) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/song1900/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
