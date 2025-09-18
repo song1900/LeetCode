@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/song1900/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/song1900/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/song1900/LeetCode/tree/master/0217-contains-duplicate) |
+| [0695-max-area-of-island](https://github.com/song1900/LeetCode/tree/master/0695-max-area-of-island) |
 | [0792-binary-search](https://github.com/song1900/LeetCode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/song1900/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/song1900/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/song1900/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/song1900/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/song1900/LeetCode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -127,12 +129,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/song1900/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/song1900/LeetCode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/song1900/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/song1900/LeetCode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/song1900/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/song1900/LeetCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
